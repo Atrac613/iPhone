@@ -1,627 +1,0 @@
-TAnimation01
-v7
-r0
-t306676995.776744
-cCheck dependencies
-cProcessInfoPlistFile /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/Info.plist Animation01-Info.plist
-cCompileXIB /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/MainWindow.xib
-cCompileXIB /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01ViewController.xib
-cCpResource build/Debug-iphonesimulator/Animation01.app/215390517_5c40aad113_z.jpg images/215390517_5c40aad113_z.jpg
-cCpResource build/Debug-iphonesimulator/Animation01.app/2991894978_5a300e6a1a_z.jpg images/2991894978_5a300e6a1a_z.jpg
-cCpResource build/Debug-iphonesimulator/Animation01.app/3614087869_035f3e4c6f_z.jpg images/3614087869_035f3e4c6f_z.jpg
-cCpResource build/Debug-iphonesimulator/Animation01.app/4129819038_bf8ede4c0e_z.jpg images/4129819038_bf8ede4c0e_z.jpg
-cCpResource build/Debug-iphonesimulator/Animation01.app/4890155384_b0ab45aac6_z.jpg images/4890155384_b0ab45aac6_z.jpg
-cProcessPCH /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-cilpkdbsctwtgzcgzuwtnmitmocd/Animation01_Prefix.pch.gch Animation01_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
-cProcessPCH /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch.pth Animation01_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
-cCompileC build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/main.o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01AppDelegate.o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01ViewController.o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
-cAnalyze /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/main.m
-cLd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/Animation01 normal i386
-cAnalyze /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.m
-cAnalyze /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.m
-cGenerateDSYMFile /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app.dSYM /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/Animation01
-cTouch /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
-c000000004C6C30170000000000000110
-t1282158615
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004C5A4DB60000000000295900
-t1280986550
-s2709760
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004C5A4DB0000000000029D580
-t1280986544
-s2741632
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004C5A4DA10000000000001466
-t1280986529
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004C6241ED00000000000009CD
-t1281507821
-s2509
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004C6242840000000001E228C0
-t1281507972
-s31598784
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01ViewController.xib
-c000000004C9749F40000000000001A55
-t1284983284
-s6741
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch
-c000000004C9749F400000000000000BF
-t1284983284
-s191
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.h
-c000000004C9749F400000000000001F0
-t1284983284
-s496
-i<UIKit/UIKit.h>
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.m
-c000000004C9749F40000000000000A98
-t1284983284
-s2712
-i"Animation01AppDelegate.h"
-i"Animation01ViewController.h"
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.h
-c000000004C9749F400000000000000F3
-t1284983284
-s243
-i<UIKit/UIKit.h>
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.m
-c000000004C974CD90000000000000B20
-t1284984025
-s2848
-i"Animation01ViewController.h"
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/MainWindow.xib
-c000000004C9749F40000000000004E59
-t1284983284
-s20057
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01.LinkFileList
-c000000004C974D7B00000000000001E3
-t1284984187
-s483
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01AppDelegate.o
-t1284984194
-s45792
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01ViewController.o
-t1284984194
-s36716
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/main.o
-t1284984193
-s3132
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/StaticAnalyzer/normal/i386/Animation01AppDelegate.plist
-t2
-s0
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/StaticAnalyzer/normal/i386/Animation01ViewController.plist
-t2
-s0
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/StaticAnalyzer/normal/i386/main.plist
-t2
-s0
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app
-t1284984195
-s408
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app.dSYM
-t1284984195
-s102
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/215390517_5c40aad113_z.jpg
-t1284984190
-s79187
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/2991894978_5a300e6a1a_z.jpg
-t1284984190
-s100988
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/3614087869_035f3e4c6f_z.jpg
-t1284984190
-s101047
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/4129819038_bf8ede4c0e_z.jpg
-t1284984190
-s125203
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/4890155384_b0ab45aac6_z.jpg
-t1284984190
-s80566
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/Animation01
-t1284984194
-s18428
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/Animation01ViewController.nib
-t1284984190
-s1269
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/Info.plist
-t1284984187
-s607
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/MainWindow.nib
-t1284984191
-s1689
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/PkgInfo
-t1284984187
-s8
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/images/215390517_5c40aad113_z.jpg
-c000000004C974B450000000000013553
-t1284983621
-s79187
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/images/2991894978_5a300e6a1a_z.jpg
-c000000004C974BF70000000000018A7C
-t1284983799
-s100988
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/images/3614087869_035f3e4c6f_z.jpg
-c000000004C974C5D0000000000018AB7
-t1284983901
-s101047
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/images/4129819038_bf8ede4c0e_z.jpg
-c000000004C974C8C000000000001E913
-t1284983948
-s125203
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/images/4890155384_b0ab45aac6_z.jpg
-c000000004C974C2D0000000000013AB6
-t1284983853
-s80566
-
-N/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/main.m
-c000000004C9749F40000000000000166
-t1284983284
-s358
-i<UIKit/UIKit.h>
-
-N/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch.pth
-t2
-s0
-
-N/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-cilpkdbsctwtgzcgzuwtnmitmocd/Animation01_Prefix.pch.gch
-t1284984193
-s11762704
-
-N/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-eqxmispfdtjrgjcpommcbvogrzpz/Animation01_Prefix.pch.gch
-t1284984035
-s15211536
-
-NAnimation01-Info.plist
-c000000004C9749F4000000000000038D
-t1284983284
-s909
-
-CAnalyze /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.m
-s306676994.562879
-e306676995.061586
-r1
-xAnalyze
-x/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.m
-oIn file included from <built-in>:121:
-o<command line>:1:10: fatal error: '/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch' file not found
-o #include "/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch"
-o          ^
-o1 error generated.
-lSLF07#2@97"Analyze /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.m306676994#306676995#0(470"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch' file not found #include "/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors306676994#18446744073709551615#0#1(25@185"'/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch' file not found306676994#18446744073709551615#0#0(6@14"<command line>306676994#1#0#1#0#0"0(6@14"<command line>306676994#0#0#0#0#0"0(0#0#89"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.m8608070400#2191"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-generated-files.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-own-target-headers.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-project-headers.hmap -F/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch --analyze /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.m -o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/StaticAnalyzer/normal/i386/Animation01AppDelegate.plist0#
-
-CAnalyze /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.m
-s306676995.061676
-e306676995.768385
-r1
-xAnalyze
-x/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.m
-oIn file included from <built-in>:121:
-o<command line>:1:10: fatal error: '/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch' file not found
-o #include "/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch"
-o          ^
-o1 error generated.
-lSLF07#2@100"Analyze /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.m306676995#306676995#0(470"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch' file not found #include "/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors306676995#18446744073709551615#0#1(25@185"'/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch' file not found306676995#18446744073709551615#0#0(6@14"<command line>306676995#1#0#1#0#0"0(6@14"<command line>306676995#0#0#0#0#0"0(0#0#92"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.m8609976640#2197"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-generated-files.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-own-target-headers.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-project-headers.hmap -F/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch --analyze /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.m -o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/StaticAnalyzer/normal/i386/Animation01ViewController.plist0#
-
-CAnalyze /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/main.m
-s306676994.152180
-e306676995.284894
-r1
-xAnalyze
-x/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/main.m
-oIn file included from <built-in>:121:
-o<command line>:1:10: fatal error: '/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch' file not found
-o #include "/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch"
-o          ^
-o1 error generated.
-lSLF07#2@71"Analyze /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/main.m306676994#306676995#0(470"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch' file not found #include "/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors306676994#18446744073709551615#0#1(25@185"'/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch' file not found306676994#18446744073709551615#0#0(6@14"<command line>306676994#1#0#1#0#0"0(6@14"<command line>306676994#0#0#0#0#0"0(0#0#63"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/main.m8606402624#2147"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-generated-files.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-own-target-headers.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-project-headers.hmap -F/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch --analyze /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/main.m -o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/StaticAnalyzer/normal/i386/main.plist0#
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies306676987#306676987#0(0"0(0#1#0"8608580512#0"0#
-
-CCompileC build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01AppDelegate.o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s306676836.243448
-e306676836.543068
-r1
-xCompileC
-xbuild/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01AppDelegate.o
-x/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@97"Compile /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.m306676836#306676836#0(0"0(0#0#89"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.m8605344448#2236"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-generated-files.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-own-target-headers.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-project-headers.hmap -F/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-eqxmispfdtjrgjcpommcbvogrzpz/Animation01_Prefix.pch -c /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.m -o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01AppDelegate.o0#
-
-CCompileC build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01AppDelegate.o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01AppDelegate.o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
-s306676993.695336
-e306676994.152078
-r1
-xCompileC
-xbuild/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01AppDelegate.o
-x/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF07#2@97"Compile /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.m306676993#306676994#0(0"0(0#0#89"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.m8590249344#2335"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-generated-files.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-own-target-headers.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-project-headers.hmap -F/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-cilpkdbsctwtgzcgzuwtnmitmocd/Animation01_Prefix.pch -c /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01AppDelegate.m -o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01AppDelegate.o0#
-
-CCompileC build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01ViewController.o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s306676836.511595
-e306676836.630429
-r1
-xCompileC
-xbuild/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01ViewController.o
-x/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@100"Compile /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.m306676836#306676836#0(0"0(0#0#92"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.m8595620800#2242"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-generated-files.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-own-target-headers.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-project-headers.hmap -F/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-eqxmispfdtjrgjcpommcbvogrzpz/Animation01_Prefix.pch -c /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.m -o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01ViewController.o0#
-
-CCompileC build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01ViewController.o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01ViewController.o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
-s306676993.954681
-e306676994.281449
-r1
-xCompileC
-xbuild/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01ViewController.o
-x/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF07#2@100"Compile /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.m306676993#306676994#0(0"0(0#0#92"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.m8609608928#2341"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-generated-files.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-own-target-headers.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-project-headers.hmap -F/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-cilpkdbsctwtgzcgzuwtnmitmocd/Animation01_Prefix.pch -c /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Classes/Animation01ViewController.m -o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01ViewController.o0#
-
-CCompileC build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/main.o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s306676836.242428
-e306676836.511484
-r1
-xCompileC
-xbuild/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/main.o
-x/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@71"Compile /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/main.m306676836#306676836#0(0"0(0#0#63"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/main.m8605332192#2192"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-generated-files.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-own-target-headers.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-project-headers.hmap -F/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-eqxmispfdtjrgjcpommcbvogrzpz/Animation01_Prefix.pch -c /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/main.m -o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/main.o0#
-
-CCompileC build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/main.o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CCompileC build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/main.o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
-s306676993.693743
-e306676993.954586
-r1
-xCompileC
-xbuild/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/main.o
-x/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF07#2@71"Compile /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/main.m306676993#306676993#0(0"0(0#0#63"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/main.m8608115456#2291"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-generated-files.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-own-target-headers.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-project-headers.hmap -F/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -include /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-cilpkdbsctwtgzcgzuwtnmitmocd/Animation01_Prefix.pch -c /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/main.m -o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01ViewController.xib
-s306676987.781306
-e306676990.941207
-r1
-xCompileXIB
-x/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01ViewController.xib
-lSLF07#2@40"CompileXIB Animation01ViewController.xib306676987#306676990#0(0"0(0#0#86"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01ViewController.xib8606189600#658"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/Animation01ViewController.nib /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
-
-CCompileXIB /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/MainWindow.xib
-s306676987.779400
-e306676991.037235
-r1
-xCompileXIB
-x/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib306676987#306676991#0(0"0(0#0#71"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/MainWindow.xib8606347072#628"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/MainWindow.nib /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
-
-CCpResource build/Debug-iphonesimulator/Animation01.app/215390517_5c40aad113_z.jpg images/215390517_5c40aad113_z.jpg
-s306676990.941611
-e306676990.977648
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Animation01.app/215390517_5c40aad113_z.jpg
-ximages/215390517_5c40aad113_z.jpg
-lSLF07#2@38"Copy images/215390517_5c40aad113_z.jpg306676990#306676990#0(0"0(0#0#90"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/images/215390517_5c40aad113_z.jpg8606553888#535"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/images/215390517_5c40aad113_z.jpg /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app0#
-
-CCpResource build/Debug-iphonesimulator/Animation01.app/2991894978_5a300e6a1a_z.jpg images/2991894978_5a300e6a1a_z.jpg
-s306676990.942849
-e306676991.006203
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Animation01.app/2991894978_5a300e6a1a_z.jpg
-ximages/2991894978_5a300e6a1a_z.jpg
-lSLF07#2@39"Copy images/2991894978_5a300e6a1a_z.jpg306676990#306676991#0(0"0(0#0#91"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/images/2991894978_5a300e6a1a_z.jpg8606280864#536"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/images/2991894978_5a300e6a1a_z.jpg /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app0#
-
-CCpResource build/Debug-iphonesimulator/Animation01.app/3614087869_035f3e4c6f_z.jpg images/3614087869_035f3e4c6f_z.jpg
-s306676990.943610
-e306676991.007689
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Animation01.app/3614087869_035f3e4c6f_z.jpg
-ximages/3614087869_035f3e4c6f_z.jpg
-lSLF07#2@39"Copy images/3614087869_035f3e4c6f_z.jpg306676990#306676991#0(0"0(0#0#91"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/images/3614087869_035f3e4c6f_z.jpg8606012096#536"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/images/3614087869_035f3e4c6f_z.jpg /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app0#
-
-CCpResource build/Debug-iphonesimulator/Animation01.app/4129819038_bf8ede4c0e_z.jpg images/4129819038_bf8ede4c0e_z.jpg
-s306676990.945272
-e306676991.021637
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Animation01.app/4129819038_bf8ede4c0e_z.jpg
-ximages/4129819038_bf8ede4c0e_z.jpg
-lSLF07#2@39"Copy images/4129819038_bf8ede4c0e_z.jpg306676990#306676991#0(0"0(0#0#91"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/images/4129819038_bf8ede4c0e_z.jpg8605778816#536"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/images/4129819038_bf8ede4c0e_z.jpg /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app0#
-
-CCpResource build/Debug-iphonesimulator/Animation01.app/4890155384_b0ab45aac6_z.jpg images/4890155384_b0ab45aac6_z.jpg
-s306676990.948126
-e306676990.992483
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Animation01.app/4890155384_b0ab45aac6_z.jpg
-ximages/4890155384_b0ab45aac6_z.jpg
-lSLF07#2@39"Copy images/4890155384_b0ab45aac6_z.jpg306676990#306676990#0(0"0(0#0#91"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/images/4890155384_b0ab45aac6_z.jpg8605548160#536"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/images/4890155384_b0ab45aac6_z.jpg /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app0#
-
-CGenerateDSYMFile /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app.dSYM /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/Animation01
-s306676995.285075
-e306676995.568377
-r1
-xGenerateDSYMFile
-x/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app.dSYM
-x/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/Animation01
-lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/Animation01.app.dSYM build/Debug-iphonesimulator/Animation01.app/Animation01306676995#306676995#0(0"0(0#0#112"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/Animation018606707104#449"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/Animation01 -o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app.dSYM0#
-
-CLd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/Animation01 normal i386
-s306676994.281564
-e306676994.562625
-r1
-xLd
-x/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/Animation01
-xnormal
-xi386
-lSLF07#2@117"Link /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/Animation01306676994#306676994#0(0"0(0#0#0"8610220992#1015"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator -F/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator -filelist /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Objects-normal/i386/Animation01.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/Animation010#
-
-CProcessInfoPlistFile /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/Info.plist Animation01-Info.plist
-s306676987.772979
-e306676987.779311
-r1
-xProcessInfoPlistFile
-x/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/Info.plist
-xAnimation01-Info.plist
-lSLF07#2@30"Process Animation01-Info.plist306676987#306676987#0(0"0(0#0#79"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01-Info.plist8607853920#545"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Animation01-Info.plist -genpkginfo /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app/Info.plist0#
-
-CProcessPCH /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch.pth Animation01_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
-s306676991.038687
-e306676991.435569
-r1
-xProcessPCH
-x/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch.pth
-xAnimation01_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.analyzer
-oIn file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator
-o   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);
-o                       ^
-oIn file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from:
-o # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING
-o                                ^
-o<scratch space>:82:1: note: instantiated from:
-o __AVAILABILITY_INTERNAL__MAC_10_7
-o ^
-oIn file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type
-o + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
-o                                                                                           ^
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type
-o + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
-o                                                                                      ^
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type
-o + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview
-o                                                                                                                  ^
-oIn file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState'
-o @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
-o                               ^
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type
-o - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
-o    ^
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type
-o - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
-o                            ^
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type
-o - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
-o                                             ^
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type
-o - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
-o    ^
-oIn file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes'
-o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
-o                      ^
-oIn file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes'
-o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
-o                      ^
-o11 errors generated.
-lSLF07#2@33"Precompile Animation01_Prefix.pch306676991#306676991#0(8243"In file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);                       ^In file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from: # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING                                ^<scratch space>:82:1: note: instantiated from: __AVAILABILITY_INTERNAL__MAC_10_7 ^In file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                           ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                      ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview                                                                                                                  ^In file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState' @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                               ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);    ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                            ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);                                             ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);    ^In file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^In file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^11 errors generated.1(25@46"Analyzer skipped this file due to parse errors306676991#18446744073709551615#0#11(25@48"expected function body after function declarator306676991#18446744073709551615#0#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#60#0#60#0#0"0(25@15"expected a type306676991#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#250#0#250#0#0"0(25@15"expected a type306676991#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#256#0#256#0#0"0(25@15"expected a type306676991#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#258#0#258#0#0"0(25@38"unknown type name 'UIApplicationState'306676991#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#187#0#187#0#0"0(25@15"expected a type306676991#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#190#0#190#0#0"0(25@15"expected a type306676991#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#191#0#191#0#0"0(25@15"expected a type306676991#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#202#0#202#0#0"0(25@15"expected a type306676991#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#206#0#206#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'306676991#18446744073709551615#0#0(6@146"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h303200622#82#0#82#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'306676991#18446744073709551615#0#0(6@145"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h303200623#54#0#54#0#0"0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#0#0#0#0#0"0(0#0#79"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch8606651872#1999"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-generated-files.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-own-target-headers.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-project-headers.hmap -F/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources -c /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch -o /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch.pth0#
-
-CProcessPCH /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch.pth Animation01_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s306676958.488650
-e306676958.775071
-r0
-xProcessPCH
-x/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch.pth
-xAnimation01_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-oIn file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator
-o   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);
-o                       ^
-oIn file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from:
-o # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING
-o                                ^
-o<scratch space>:82:1: note: instantiated from:
-o __AVAILABILITY_INTERNAL__MAC_10_7
-o ^
-oIn file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type
-o + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
-o                                                                                           ^
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type
-o + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
-o                                                                                      ^
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type
-o + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview
-o                                                                                                                  ^
-oIn file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState'
-o @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
-o                               ^
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type
-o - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
-o    ^
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type
-o - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
-o                            ^
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type
-o - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
-o                                             ^
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type
-o - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
-o    ^
-oIn file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes'
-o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
-o                      ^
-oIn file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:
-oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes'
-o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
-o                      ^
-o11 errors generated.
-lSLF07#2@33"Precompile Animation01_Prefix.pch306676958#306676958#0(8243"In file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);                       ^In file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from: # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING                                ^<scratch space>:82:1: note: instantiated from: __AVAILABILITY_INTERNAL__MAC_10_7 ^In file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                           ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                      ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview                                                                                                                  ^In file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState' @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                               ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);    ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                            ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);                                             ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);    ^In file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^In file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^11 errors generated.11(4@48"Expected function body after function declarator306676958#1151#219#10(7@181"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:306676958#969#182#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h302679128#26#0#26#0#0"0(7@168"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:306676958#800#169#0(6@143"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h303200623#9#0#9#0#0"0(7@173"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:306676958#626#174#0(6@147"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h303200621#10#0#10#0#0"0(7@167"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:306676958#458#168#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#9#0#9#0#0"0(7@184"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:306676958#273#185#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h303200624#8#0#8#0#0"0(7@167"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:306676958#105#168#0(6@141"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h303200621#11#0#11#0#0"0(7@104"In file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:306676958#0#105#0(6@79"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch306676084#7#0#7#0#0"0(13@207"Expected function body after function declarator in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h306676958#18446744073709551615#0#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#60#23#0#0#0"0(13@168"Instantiated from: /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h306676958#2617#182#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h302679127#21#32#0#0#18"instantiated from:0(13@34"Instantiated from: <scratch space>306676958#2890#47#0(6@15"<scratch space>306676958#82#1#0#0#18"instantiated from:0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#60#23#0#0#48"expected function body after function declarator0(4@15"Expected a type306676958#3433#174#4(7@184"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:306676958#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h303200624#8#0#8#0#0"0(7@167"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:306676958#18446744073709551615#0#0(6@141"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h303200621#11#0#11#0#0"0(7@104"In file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:306676958#18446744073709551615#0#0(6@79"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch306676084#7#0#7#0#0"0(13@161"Expected a type in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h306676958#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#250#91#0#0#0"0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#250#91#0#0#15"expected a type0(4@15"Expected a type306676958#3956#174#4(7@184"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:306676958#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h303200624#8#0#8#0#0"0(7@167"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:306676958#18446744073709551615#0#0(6@141"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h303200621#11#0#11#0#0"0(7@104"In file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:306676958#18446744073709551615#0#0(6@79"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch306676084#7#0#7#0#0"0(13@161"Expected a type in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h306676958#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#256#86#0#0#0"0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#256#86#0#0#15"expected a type0(4@15"Expected a type306676958#4469#175#4(7@184"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:306676958#18446744073709551615#0#0(6@159"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h303200624#8#0#8#0#0"0(7@167"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:306676958#18446744073709551615#0#0(6@141"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h303200621#11#0#11#0#0"0(7@104"In file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:306676958#18446744073709551615#0#0(6@79"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch306676084#7#0#7#0#0"0(13@161"Expected a type in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h306676958#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#258#114#0#0#0"0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#258#114#0#0#15"expected a type0(4@38"Unknown type name 'UIApplicationState'306676958#5349#204#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#187#31#0#0#19"unknown type name *0(4@15"Expected a type306676958#5702#180#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#190#4#0#0#15"expected a type0(4@15"Expected a type306676958#6033#181#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#191#28#0#0#15"expected a type0(4@15"Expected a type306676958#6359#181#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#202#45#0#0#15"expected a type0(4@15"Expected a type306676958#6712#180#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#206#4#0#0#15"expected a type0(4@39"Unknown type name 'UIDataDetectorTypes'306676958#7280#201#3(7@167"In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:306676958#18446744073709551615#0#0(6@141"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h303200621#73#0#73#0#0"0(7@104"In file included from /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch:7:306676958#18446744073709551615#0#0(6@79"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch306676084#7#0#7#0#0"0(13@189"Unknown type name 'UIDataDetectorTypes' in /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h306676958#18446744073709551615#0#0(6@146"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h303200622#82#22#0#0#0"0(6@146"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h303200622#82#22#0#0#19"unknown type name *0(4@39"Unknown type name 'UIDataDetectorTypes'306676958#7888#200#0(6@145"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h303200623#54#22#0#0#19"unknown type name *0(0#0#79"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch8604983776#2044"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-generated-files.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-own-target-headers.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-project-headers.hmap -F/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources -c /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch -o /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-bxvhvamsizkzoxfigqhnuhnmzdjc/Animation01_Prefix.pch.pth1#
-
-CProcessPCH /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-cilpkdbsctwtgzcgzuwtnmitmocd/Animation01_Prefix.pch.gch Animation01_Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
-s306676991.037361
-e306676993.693584
-r1
-xProcessPCH
-x/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-cilpkdbsctwtgzcgzuwtnmitmocd/Animation01_Prefix.pch.gch
-xAnimation01_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvmgcc42
-lSLF07#2@33"Precompile Animation01_Prefix.pch306676991#306676993#0(0"0(0#0#79"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch8594253152#2161"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-generated-files.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-own-target-headers.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-project-headers.hmap -F/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -c /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch -o /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-cilpkdbsctwtgzcgzuwtnmitmocd/Animation01_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-eqxmispfdtjrgjcpommcbvogrzpz/Animation01_Prefix.pch.gch Animation01_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s306676834.203714
-e306676836.242240
-r1
-xProcessPCH
-x/var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-eqxmispfdtjrgjcpommcbvogrzpz/Animation01_Prefix.pch.gch
-xAnimation01_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@33"Precompile Animation01_Prefix.pch306676834#306676836#0(0"0(0#0#79"/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch8604729632#2062"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-generated-files.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-own-target-headers.hmap -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-all-target-headers.hmap -iquote /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/Animation01-project-headers.hmap -F/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/include -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources/i386 -I/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Animation01.build/Debug-iphonesimulator/Animation01.build/DerivedSources -c /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/Animation01_Prefix.pch -o /var/folders/Lc/LcgQfcxXHYSH1cjRov1BY++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Animation01_Prefix-eqxmispfdtjrgjcpommcbvogrzpz/Animation01_Prefix.pch.gch0#
-
-CTouch /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app
-s306676995.768474
-e306676995.776695
-r1
-xTouch
-x/Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app
-lSLF07#2@106"Touch /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app306676995#306676995#0(0"0(0#0#0"8605018368#318"    cd /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Atrac/Documents/workspace/iPhone-Labs/Animation01/build/Debug-iphonesimulator/Animation01.app0#
-
